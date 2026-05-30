@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ebe323e4500cbcb30da0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A13044",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A13044::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A13044-Release-3240c53e78fde39a980e.json",
+					"name" : "A13044",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A13044_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A13044_autogen-Release-2c02249c91d48ff2ef1a.json",
+					"name" : "A13044_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A13044_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A13044_autogen_timestamp_deps-Release-9d996aaae4f34d6e4b4e.json",
+					"name" : "A13044_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A13044_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A13044_qmlimportscan-Release-3ac6dc93ce1af3a80e0a.json",
+					"name" : "A13044_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+		"source" : "D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

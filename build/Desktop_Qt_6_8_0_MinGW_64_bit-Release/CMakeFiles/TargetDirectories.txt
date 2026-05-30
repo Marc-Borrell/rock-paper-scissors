@@ -1,0 +1,10 @@
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/A13044.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/A13044_qmlimportscan.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/A13044_autogen_timestamp_deps.dir
+D:/ETP_CLOT/Clot/BinefaDAM/QML_CODES/A13044/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/A13044_autogen.dir
